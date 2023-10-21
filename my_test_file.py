@@ -6,3 +6,10 @@ def example_function(branch_name: str) -> str:
 
 
 print(example_function("branching-example"))
+
+
+def create_conflict(name: str) -> str:
+    return name + " just created a merge conflict!"
+
+
+print(create_conflict("Faith"))
