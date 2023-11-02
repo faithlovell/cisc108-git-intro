@@ -15,6 +15,13 @@ Ex. faith-lovell-branch
 ~~Codeblocks too, and I can cross out this title~~
 ```
 print("Hello World")
-my_name = Faith
+my_name = "Faith"
+```
+
+To have syntax highlighting, put the word `python` in there:
+
+```python
+print("Hello world!")
+prof_name = "Dr. Bart"
 ```
 
