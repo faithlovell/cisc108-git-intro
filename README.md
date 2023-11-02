@@ -13,8 +13,7 @@ Ex. faith-lovell-branch
 - [ ] **And a task in bold**
 
 ~~Codeblocks too, and I can cross out this title~~
-```
+    python
 print("Hello World")
 my_name = Faith
-```
 
