@@ -18,3 +18,5 @@ print("Hello World")
 my_name = Faith
 ```
 
+*here is my cat!*
+![A picture of my cat!](https://github.com/faithlovell/cisc108-git-intro/blob/main/IMG_7365.JPG)
