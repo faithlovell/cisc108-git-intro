@@ -15,7 +15,7 @@ Ex. faith-lovell-branch
 ~~Codeblocks too, and I can cross out this title~~
 ```
 print("Hello World")
-my_name = Faith
+my_name = Kyle
 ```
 
 *here is my cat!*
